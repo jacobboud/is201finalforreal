@@ -1,0 +1,18 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/010/994/354/original/nba-logo-symbol-black-and-white-design-america-basketball-american-countries-basketball-teams-illustration-free-vector.jpg)
+}
+.depth{
+    font-family: 'comic sans', engravers, serif;
+    font-size: xx-large;
+}
+.starters{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: yellow;
+}
+.itslit{
+    font-size: xx-large;
+    position: absolute;
+}
